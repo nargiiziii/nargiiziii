@@ -33,6 +33,12 @@ I build backend APIs, business logic, and frontend interfaces for web applicatio
 
 ---
 
+## 🏆 GitHub Trophies
+
+![trophy](https://github-profile-trophy.vercel.app/?username=nargiiziii&theme=radical)
+
+---
+
 ## 🏷️ Technologies & Tools
 
 ![PHP](https://img.shields.io/badge/PHP-8.2-blue?style=flat-square&logo=php)
@@ -40,6 +46,19 @@ I build backend APIs, business logic, and frontend interfaces for web applicatio
 ![React](https://img.shields.io/badge/React-18-blue?style=flat-square&logo=react)
 ![MySQL](https://img.shields.io/badge/MySQL-8-blue?style=flat-square&logo=mysql)
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-3-blue?style=flat-square&logo=tailwind-css)
+![Docker](https://img.shields.io/badge/Docker-blue?style=flat-square&logo=docker)
+![VSCode](https://img.shields.io/badge/VSCode-blue?style=flat-square&logo=visual-studio-code)
+![Postman](https://img.shields.io/badge/Postman-orange?style=flat-square&logo=postman)
+
+---
+
+## 🎯 Currently Learning
+- TypeScript & Next.js
+- GraphQL APIs
+- Advanced Laravel Packages
+
+## 😄 Fun Fact
+I love exploring new technologies and optimizing backend workflows!
 
 ---
 
@@ -52,7 +71,7 @@ I build backend APIs, business logic, and frontend interfaces for web applicatio
 
 ---
 
-## 📂 Featured Projects
+## 🌐 Featured Projects
 - **Laravel Backend API** – clean architecture, services, repositories, business logic  
 - **Document Workflow System** – statuses, transitions, draft logic  
 - **Full-Stack App** – Laravel API + React frontend
@@ -61,3 +80,5 @@ I build backend APIs, business logic, and frontend interfaces for web applicatio
 
 ## 📫 Contact
 - GitHub: @nargiiziii
+- LinkedIn: (add your link)
+- Email: (add your email)
