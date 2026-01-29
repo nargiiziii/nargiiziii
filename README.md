@@ -1,11 +1,11 @@
-# Hi, I'm Nargiz 👋
+# Hi, I'm Nargiz!
 
 Full-Stack Developer working with PHP (Laravel) and React.  
 I build backend APIs, business logic, and frontend interfaces for web applications.
 
 ---
 
-## 🛠 Tech Stack
+## < Tech Stack />
 
 ### Backend
 * PHP 8+
@@ -26,14 +26,14 @@ I build backend APIs, business logic, and frontend interfaces for web applicatio
 
 ---
 
-## 📊 GitHub Stats
+## < GitHub Stats />
 
 ![Nargiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=nargiiziii&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nargiiziii&layout=compact&theme=radical)
 
 ---
 
-## 🏷️ Technologies & Tools
+## < Technologies & Tools />
 
 ![PHP](https://img.shields.io/badge/PHP-8.2-blue?style=flat-square&logo=php)
 ![Laravel](https://img.shields.io/badge/Laravel-9-red?style=flat-square&logo=laravel)
@@ -43,7 +43,7 @@ I build backend APIs, business logic, and frontend interfaces for web applicatio
 
 ---
 
-## 🧩 What I Do
+## < What I Do />
 * Develop and maintain backend architecture
 * Design and implement REST APIs
 * Work with databases and business workflows
@@ -52,12 +52,12 @@ I build backend APIs, business logic, and frontend interfaces for web applicatio
 
 ---
 
-## 📂 Featured Projects
+## < Featured Projects />
 * **Laravel Backend API** – clean architecture, services, repositories, business logic  
 * **Document Workflow System** – statuses, transitions, draft logic  
 * **Full-Stack App** – Laravel API + React frontend
 
 ---
 
-## 📫 Contact
+## < Contact />
 * GitHub: @nargiiziii
