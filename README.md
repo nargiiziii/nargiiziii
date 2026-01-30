@@ -45,12 +45,37 @@ I build backend APIs, business logic, and frontend interfaces for web applicatio
 
 ---
 
-## < GitHub Stats />
-![Stats](https://github-readme-stats.vercel.app/api?username=nargiiziii&show_icons=true&theme=tokyonight)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;Laravel+%26+React;Building+cool+things;Always+learning&center=true&width=500)
 
 ---
 
-![Snake](https://github.com/nargiiziii/nargiiziii/blob/output/github-contribution-grid-snake.svg)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
+
+<img src="https://skillicons.dev/icons?i=php,laravel,react,mysql,tailwind,git" />
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ТВОЙ_USERNAME&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ТВОЙ_USERNAME&layout=compact&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=ТВОЙ_USERNAME&theme=dark)
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=ТВОЙ_USERNAME&theme=onedark)
+
+![Profile Views](https://komarev.com/ghpvc/?username=ТВОЙ_USERNAME&color=blueviolet&style=flat-square)
+
+![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=spotify_username&cover_image=true&theme=novatorem)
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+![Commits](https://img.shields.io/badge/Commits-Always%20pushing-success?style=flat-square)
+![Learning](https://img.shields.io/badge/Status-Learning-yellow?style=flat-square)
+
+```txt
+{ code • coffee • repeat }
+```
+
 
 ---
 
