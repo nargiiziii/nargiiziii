@@ -26,13 +26,6 @@ I build backend APIs, business logic, and frontend interfaces for web applicatio
 
 ---
 
-## < GitHub Stats />
-
-![Nargiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=nargiiziii&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nargiiziii&layout=compact&theme=radical)
-
----
-
 ## < Technologies & Tools />
 
 ![PHP](https://img.shields.io/badge/PHP-8.2-blue?style=flat-square&logo=php)
