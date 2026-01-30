@@ -51,3 +51,29 @@ I build backend APIs, business logic, and frontend interfaces for web applicatio
 
 ## < Contact />
 * GitHub: @nargiiziii
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0B1A3F&height=2"/>
+
+## < GitHub Stats & Fun Stuff />
+
+<!-- GitHub Stats -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nargiiziii&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nargiiziii&layout=compact&theme=dark)
+
+<!-- GitHub Trophies -->
+![Trophies](https://github-profile-trophy.vercel.app/?username=nargiiziii&theme=onedark)
+
+<!-- Profile Views -->
+![Profile Views](https://komarev.com/ghpvc/?username=nargiiziii&color=1E3A8A&style=flat-square)
+
+<!-- Social / Contact -->
+[![GitHub](https://img.shields.io/badge/GitHub-nargiiziii-181717?style=for-the-badge&logo=github)](https://github.com/nargiiziii)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nargiz-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-link)
+
+<!-- Fun / Quotes -->
+> "Code, coffee, repeat ☕💻"  
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0B1A3F&height=2"/>
