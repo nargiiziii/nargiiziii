@@ -3,11 +3,11 @@
 Full-Stack Developer working with PHP (Laravel) and React.  
 I build backend APIs, business logic, and frontend interfaces for web applications.
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0A1AFF&height=4"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0B1A3F&height=2"/>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Web+Developer;from+ideas+to+working+code;always+improving&center=true&width=520&color=36BCF7&size=22)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Web+Developer;from+ideas+to+working+code;always+improving&center=true&width=520&color=36A0FF&size=22)
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0A1AFF&height=4"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0B1A3F&height=2"/>
 
 ## < Tech Stack />
 
@@ -28,7 +28,7 @@ I build backend APIs, business logic, and frontend interfaces for web applicatio
 * Basic knowledge of Redux
 * Axios / Fetch API for API integration
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0A1AFF&height=4"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0B1A3F&height=2"/>
 
 ## < Technologies & Tools />
 
@@ -38,7 +38,7 @@ I build backend APIs, business logic, and frontend interfaces for web applicatio
 ![MySQL](https://img.shields.io/badge/MySQL-8-blue?style=flat-square&logo=mysql)
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-3-blue?style=flat-square&logo=tailwind-css)
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0A1AFF&height=4"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0B1A3F&height=2"/>
 
 ## < What I Do />
 * Develop and maintain backend architecture
@@ -47,7 +47,7 @@ I build backend APIs, business logic, and frontend interfaces for web applicatio
 * Build frontend interfaces and integrate them with APIs
 * Write clean, structured, and maintainable code
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0A1AFF&height=4"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0B1A3F&height=2"/>
 
 ## < Contact />
 * GitHub: @nargiiziii
