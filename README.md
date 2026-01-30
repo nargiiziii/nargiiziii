@@ -3,7 +3,7 @@
 Full-Stack Developer working with PHP (Laravel) and React.  
 I build backend APIs, business logic, and frontend interfaces for web applications.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:36BCF7,100:FF6EC7&height=2"/>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Web+Developer;from+ideas+to+working+code;always+improving&center=true&width=520&color=36BCF7&size=22)
 
