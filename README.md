@@ -45,10 +45,20 @@ I build backend APIs, business logic, and frontend interfaces for web applicatio
 
 ---
 
-## < Featured Projects />
-* **Laravel Backend API** – clean architecture, services, repositories, business logic  
-* **Document Workflow System** – statuses, transitions, draft logic  
-* **Full-Stack App** – Laravel API + React frontend
+## < GitHub Stats />
+![Stats](https://github-readme-stats.vercel.app/api?username=nargiiziii&show_icons=true&theme=tokyonight)
+
+---
+
+![Snake](https://github.com/nargiiziii/nargiiziii/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## < ☕ Fun Stuff />
+
+![Coffee](https://img.shields.io/badge/Fueled%20by-Coffee-brown?style=flat-square)
+![Debugging](https://img.shields.io/badge/Debugging-99%25-red?style=flat-square)
+![Bug](https://img.shields.io/badge/Bug-Feature-important?style=flat-square)
 
 ---
 
