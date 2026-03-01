@@ -52,19 +52,6 @@ I build backend APIs, business logic, and frontend interfaces for web applicatio
 ![REST API](https://img.shields.io/badge/REST-API-1E3A8A?style=for-the-badge)
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0B1A3F&height=2"/>
-
-## < What I Do />
-* Develop and maintain backend architecture
-* Design and implement REST APIs
-* Work with databases and business workflows
-* Build frontend interfaces and integrate them with APIs
-* Write clean, structured, and maintainable code
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0B1A3F&height=2"/>
-
-## < Contact />
-* GitHub: @nargiiziii
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0B1A3F&height=2"/>
 
 
