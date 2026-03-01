@@ -51,7 +51,3 @@ I build backend APIs, business logic, and frontend interfaces for web applicatio
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST-API-1E3A8A?style=for-the-badge)
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0B1A3F&height=2"/>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0B1A3F&height=2"/>
-
-
