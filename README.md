@@ -1,5 +1,3 @@
-# Hi, I'm Nargiz!
-
 Full-Stack Developer working with PHP (Laravel) and React.  
 I build backend APIs, business logic, and frontend interfaces for web applications.
 
