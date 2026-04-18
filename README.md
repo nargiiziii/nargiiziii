@@ -9,9 +9,11 @@ I build backend APIs, business logic, and scalable frontend interfaces.
 
 ## < Tech Stack />
 
-- **Backend:** PHP 8+, Laravel (MVC, Services, Repositories), REST APIs, MySQL, RabbitMQ  
-- **Frontend:** React, JavaScript (ES6+), HTML5, CSS3, Sass, Tailwind CSS  
-- **Practices:** Responsive Design, Flexbox, Grid, API Integration (Axios / Fetch), Redux (basic)
+| Area       | Technologies |
+|------------|-------------|
+| **Backend** | PHP 8+, Laravel, REST APIs, MySQL, RabbitMQ |
+| **Frontend** | React, JavaScript (ES6+), HTML5, CSS3, Sass, Tailwind CSS |
+| **Tools & Practices** | Responsive Design, Flexbox, Grid, Axios / Fetch, Redux (basic) |
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0B1A3F&height=2"/>
 
