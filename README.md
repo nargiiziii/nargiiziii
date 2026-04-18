@@ -1,17 +1,17 @@
 Full-Stack Developer working with PHP (Laravel) and React.  
-I build backend APIs, business logic, and frontend interfaces for web applications.
+I build backend APIs, business logic, and scalable frontend interfaces.
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0B1A3F&height=2"/>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Web+Developer;from+ideas+to+working+code;always+improving&center=true&width=520&color=36A0FF&size=22)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Web+Developer;from+ideas+to+production;continuous+improvement&center=true&width=520&color=36A0FF&size=22)
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0B1A3F&height=2"/>
 
 ## < Tech Stack />
 
-**Backend:** PHP 8+, Laravel (MVC, Services, Repositories), REST APIs, MySQL, RabbitMQ  
-**Frontend:** React, JavaScript (ES6+), HTML5, CSS3, Sass, Tailwind  
-**Other:** Responsive Design, Flexbox, Grid, Redux (basic), Axios / Fetch
+- **Backend:** PHP 8+, Laravel (MVC, Services, Repositories), REST APIs, MySQL, RabbitMQ  
+- **Frontend:** React, JavaScript (ES6+), HTML5, CSS3, Sass, Tailwind CSS  
+- **Practices:** Responsive Design, Flexbox, Grid, API Integration (Axios / Fetch), Redux (basic)
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0B1A3F&height=2"/>
 
