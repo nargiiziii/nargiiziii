@@ -9,26 +9,14 @@ I build backend APIs, business logic, and frontend interfaces for web applicatio
 
 ## < Tech Stack />
 
-### Backend
-* PHP 8+
-* Laravel (Controllers, Services, Repositories, Migrations, Validation)
-* REST APIs
-* MySQL / SQL
-* RabbitMQ
-
-### Frontend
-* React (Components, Hooks, Context API)
-* JavaScript (ES6+)
-* HTML5, CSS3
-* Sass / SCSS
-* Tailwind CSS
-* Responsive Design / Flexbox / Grid
-* Basic knowledge of Redux
-* Axios / Fetch API for API integration
+**Backend:** PHP 8+, Laravel (MVC, Services, Repositories), REST APIs, MySQL, RabbitMQ  
+**Frontend:** React, JavaScript (ES6+), HTML5, CSS3, Sass, Tailwind  
+**Other:** Responsive Design, Flexbox, Grid, Redux (basic), Axios / Fetch
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0B1A3F&height=2"/>
 
 ## < Technologies & Tools />
+
 ![PHP](https://img.shields.io/badge/PHP-8.2-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-9-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-8-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -48,4 +36,3 @@ I build backend APIs, business logic, and frontend interfaces for web applicatio
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST-API-1E3A8A?style=for-the-badge)
-
